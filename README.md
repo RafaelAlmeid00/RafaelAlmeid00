@@ -5,9 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelAlmeid00&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlmeid00" />
-</a>
 
 <h1>Most Used Languages</h1>
 
@@ -47,3 +44,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=100 align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
 </a>
+
+<h1>About Me</h1>
+
+I'm a Brazilian programmer from Rio de Janeiro
+
+Graduated from the technical school ETE Amaury César Vieira
