@@ -1,7 +1,8 @@
 <h1>Hello, World!</h1>
 
 🎯 - I'm Rafael de Souza Almeida, technical programmer, experienced in React Typescript.
-
+<br>
+</br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelAlmeid00&theme=github_dark" />
