@@ -5,9 +5,12 @@
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelAlmeid00&theme=github_dark" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlmeid00&theme=github_dark" />
-</a>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlmeid00&theme=github_dark" />
+ </a>
 </div>
+
 <div align="center">
   <br><p align="centre"><b>Visitants</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafaelAlmeid00}/count.svg" /></p> 
