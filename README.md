@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-🎯 - I'm Rafael de Souza Almeida, technical programmer, experienced in React Typescript.
+🎯 - I'm Rafael de Souza Almeida, student Software Enginner.
 <br>
 </br>
 <div align="center">
@@ -21,5 +21,3 @@
 <h1>About Me</h1>
 
 I'm a Brazilian programmer from Rio de Janeiro
-
-Graduated from the technical school ETE Amaury César Vieira
